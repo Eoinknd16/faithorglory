@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9722df29c8070d740b7b9ed6e3047533
+timeCreated: 1543462029
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157608
+  packageName: Pine Forest- LowPoly
+  packageVersion: 1.0
+  assetPath: Assets/AssetPacks/Pine Forest_LowPoly/Materials/Ground_Material.mat
+  uploadId: 338720

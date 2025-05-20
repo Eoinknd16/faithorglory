@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5c21d13ff088f0468b1f0498af3ced9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295463
+  packageName: Pine Trees Package
+  packageVersion: 1.0
+  assetPath: Assets/Pine Trees/FBXImporter.preset
+  uploadId: 691506

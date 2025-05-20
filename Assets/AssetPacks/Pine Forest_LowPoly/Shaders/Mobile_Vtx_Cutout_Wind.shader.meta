@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 26f8a44234b272d4e91f39015356c772
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157608
+  packageName: Pine Forest- LowPoly
+  packageVersion: 1.0
+  assetPath: Assets/AssetPacks/Pine Forest_LowPoly/Shaders/Mobile_Vtx_Cutout_Wind.shader
+  uploadId: 338720
